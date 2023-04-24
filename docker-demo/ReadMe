@@ -1,0 +1,3 @@
+Created a simple Java Application using Spring boot starter. 
+Created an image of the application using Docker and pushed it into Docker repository.
+Hosted the application using GCP and Kubernetes with the image created earlier.
